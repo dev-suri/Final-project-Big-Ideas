@@ -14,9 +14,11 @@ Team Name: Group 3
 Dev Suri dus16@pitt.edu
 Dylan Minnick dym14@pitt.edu
 Ian Murday ijm15@pitt.edu
-\n
+
+
 **Based on our findings, we determined that the following ten neighborhoods were the best in Pittsburgh:**
-\n
+
+
 #1 Squirrel Hill South
 #2 Highland Park
 #3 Squirrel Hill North
@@ -27,6 +29,7 @@ Ian Murday ijm15@pitt.edu
 #8 Allegheny West
 #9 Mt. Oliver Neighborhood
 #10 Mount Oliver Borough
+
 
 This answer was determined by three metrics: number of arrests / crimes, number of trees / greenery, and number of road / traffic incidents.
 
