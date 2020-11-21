@@ -14,9 +14,9 @@ Team Name: Group 3
 Dev Suri dus16@pitt.edu
 Dylan Minnick dym14@pitt.edu
 Ian Murday ijm15@pitt.edu
-
+\n
 **Based on our findings, we determined that the following ten neighborhoods were the best in Pittsburgh:**
-
+\n
 #1 Squirrel Hill South
 #2 Highland Park
 #3 Squirrel Hill North
